@@ -1,0 +1,10 @@
+/node_modules
+/uploads
+/uploads/*
+uploads/
+uploads/*
+.env
+/dist
+dist/
+/tiled_contour
+/survey_data
